@@ -1,0 +1,16 @@
+E:\GitHub\cs_1.3_CalculaProduto\bin\Release\net5.0\cs_1.3_CalculaProduto.exe
+E:\GitHub\cs_1.3_CalculaProduto\bin\Release\net5.0\cs_1.3_CalculaProduto.deps.json
+E:\GitHub\cs_1.3_CalculaProduto\bin\Release\net5.0\cs_1.3_CalculaProduto.runtimeconfig.json
+E:\GitHub\cs_1.3_CalculaProduto\bin\Release\net5.0\cs_1.3_CalculaProduto.runtimeconfig.dev.json
+E:\GitHub\cs_1.3_CalculaProduto\bin\Release\net5.0\cs_1.3_CalculaProduto.dll
+E:\GitHub\cs_1.3_CalculaProduto\bin\Release\net5.0\ref\cs_1.3_CalculaProduto.dll
+E:\GitHub\cs_1.3_CalculaProduto\bin\Release\net5.0\cs_1.3_CalculaProduto.pdb
+E:\GitHub\cs_1.3_CalculaProduto\obj\Release\net5.0\cs_1.3_CalculaProduto.csprojAssemblyReference.cache
+E:\GitHub\cs_1.3_CalculaProduto\obj\Release\net5.0\cs_1.3_CalculaProduto.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\cs_1.3_CalculaProduto\obj\Release\net5.0\cs_1.3_CalculaProduto.AssemblyInfoInputs.cache
+E:\GitHub\cs_1.3_CalculaProduto\obj\Release\net5.0\cs_1.3_CalculaProduto.AssemblyInfo.cs
+E:\GitHub\cs_1.3_CalculaProduto\obj\Release\net5.0\cs_1.3_CalculaProduto.csproj.CoreCompileInputs.cache
+E:\GitHub\cs_1.3_CalculaProduto\obj\Release\net5.0\cs_1.3_CalculaProduto.dll
+E:\GitHub\cs_1.3_CalculaProduto\obj\Release\net5.0\ref\cs_1.3_CalculaProduto.dll
+E:\GitHub\cs_1.3_CalculaProduto\obj\Release\net5.0\cs_1.3_CalculaProduto.pdb
+E:\GitHub\cs_1.3_CalculaProduto\obj\Release\net5.0\cs_1.3_CalculaProduto.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+E:\GitHub\cs_1.3_CalculaProduto\bin\Release\net5.0\publish\cs_1.3_CalculaProduto.exe
+E:\GitHub\cs_1.3_CalculaProduto\bin\Release\net5.0\publish\cs_1.3_CalculaProduto.dll
+E:\GitHub\cs_1.3_CalculaProduto\bin\Release\net5.0\publish\cs_1.3_CalculaProduto.deps.json
+E:\GitHub\cs_1.3_CalculaProduto\bin\Release\net5.0\publish\cs_1.3_CalculaProduto.runtimeconfig.json
+E:\GitHub\cs_1.3_CalculaProduto\bin\Release\net5.0\publish\cs_1.3_CalculaProduto.pdb
